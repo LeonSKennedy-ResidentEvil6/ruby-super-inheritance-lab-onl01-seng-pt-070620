@@ -1,2 +1,4 @@
 class Student
-end 
+  def hello
+  end 
+end
